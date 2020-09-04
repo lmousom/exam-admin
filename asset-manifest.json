@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/exam-admin/static/css/main.e2602862.chunk.css",
+    "main.js": "/exam-admin/static/js/main.ed990990.chunk.js",
+    "main.js.map": "/exam-admin/static/js/main.ed990990.chunk.js.map",
+    "runtime-main.js": "/exam-admin/static/js/runtime-main.d756ba35.js",
+    "runtime-main.js.map": "/exam-admin/static/js/runtime-main.d756ba35.js.map",
+    "static/css/2.9a9a1f6f.chunk.css": "/exam-admin/static/css/2.9a9a1f6f.chunk.css",
+    "static/js/2.c878e2ce.chunk.js": "/exam-admin/static/js/2.c878e2ce.chunk.js",
+    "static/js/2.c878e2ce.chunk.js.map": "/exam-admin/static/js/2.c878e2ce.chunk.js.map",
+    "index.html": "/exam-admin/index.html",
+    "precache-manifest.75ca454fffb84728e2be4bf8281c132b.js": "/exam-admin/precache-manifest.75ca454fffb84728e2be4bf8281c132b.js",
+    "service-worker.js": "/exam-admin/service-worker.js",
+    "static/css/2.9a9a1f6f.chunk.css.map": "/exam-admin/static/css/2.9a9a1f6f.chunk.css.map",
+    "static/css/main.e2602862.chunk.css.map": "/exam-admin/static/css/main.e2602862.chunk.css.map",
+    "static/js/2.c878e2ce.chunk.js.LICENSE.txt": "/exam-admin/static/js/2.c878e2ce.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d756ba35.js",
+    "static/css/2.9a9a1f6f.chunk.css",
+    "static/js/2.c878e2ce.chunk.js",
+    "static/css/main.e2602862.chunk.css",
+    "static/js/main.ed990990.chunk.js"
+  ]
+}
